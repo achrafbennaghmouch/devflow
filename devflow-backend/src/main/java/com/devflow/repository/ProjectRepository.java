@@ -1,0 +1,12 @@
+package com.devflow.repository;
+
+import com.devflow.entity.Project;
+import com.devflow.entity.ProjectStatus;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface ProjectRepository extends JpaRepository<Project, Long> {
+    List<Project> findByNameContainingIgnoreCase(String name);
+    List<Project> findByStatus(ProjectStatus status);
+}

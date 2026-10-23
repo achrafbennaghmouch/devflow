@@ -1,0 +1,84 @@
+{
+  "hash": "d35b454e",
+  "configHash": "dddb3983",
+  "lockfileHash": "c360eeac",
+  "browserHash": "50b6bf45",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "2ad41883",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "361cd1d8",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "c0a07982",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "9ca12ab7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "7152376c",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "d3d06edc",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "48bae46d",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "_xhr-chunk-XyZKHa42": {
+      "file": "_xhr-chunk-XyZKHa42.js",
+      "isDynamicEntry": false
+    },
+    "common-D6kcboKi": {
+      "file": "common-D6kcboKi.js",
+      "isDynamicEntry": false
+    },
+    "core-BiFiaIme": {
+      "file": "core-BiFiaIme.js",
+      "isDynamicEntry": false
+    },
+    "createObject-C4dRU15l": {
+      "file": "createObject-C4dRU15l.js",
+      "isDynamicEntry": false
+    },
+    "from-ChVBNpvE": {
+      "file": "from-ChVBNpvE.js",
+      "isDynamicEntry": false
+    },
+    "http-wDr405U8": {
+      "file": "http-wDr405U8.js",
+      "isDynamicEntry": false
+    },
+    "objectSpread2-weooBxVk": {
+      "file": "objectSpread2-weooBxVk.js",
+      "isDynamicEntry": false
+    },
+    "platform-browser-CdMrGm0L": {
+      "file": "platform-browser-CdMrGm0L.js",
+      "isDynamicEntry": false
+    }
+  }
+}
